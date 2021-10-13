@@ -1,0 +1,10 @@
+C:\Users\Charles\source\repos\LearnToDrive\LearnToDrive\bin\Debug\LearnToDrive.exe.config
+C:\Users\Charles\source\repos\LearnToDrive\LearnToDrive\bin\Debug\LearnToDrive.exe
+C:\Users\Charles\source\repos\LearnToDrive\LearnToDrive\bin\Debug\LearnToDrive.pdb
+C:\Users\Charles\source\repos\LearnToDrive\LearnToDrive\obj\Debug\LearnToDrive.csprojAssemblyReference.cache
+C:\Users\Charles\source\repos\LearnToDrive\LearnToDrive\obj\Debug\LearnToDrive.Form1.resources
+C:\Users\Charles\source\repos\LearnToDrive\LearnToDrive\obj\Debug\LearnToDrive.Properties.Resources.resources
+C:\Users\Charles\source\repos\LearnToDrive\LearnToDrive\obj\Debug\LearnToDrive.csproj.GenerateResource.cache
+C:\Users\Charles\source\repos\LearnToDrive\LearnToDrive\obj\Debug\LearnToDrive.csproj.CoreCompileInputs.cache
+C:\Users\Charles\source\repos\LearnToDrive\LearnToDrive\obj\Debug\LearnToDrive.exe
+C:\Users\Charles\source\repos\LearnToDrive\LearnToDrive\obj\Debug\LearnToDrive.pdb
