@@ -1,5 +1,5 @@
 # LearnToDrive
-Machine Learning like program
+Machine Learning(ish) program
 
 - Creates a large number of "Car" objects
 - Each car is given it's distance to each wall, it's current rotation, and the current speed (along with weights)
